@@ -22,7 +22,7 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "./plugins/with-gradle-9-8-1.js"
+      "./plugins/with-gradle-wrapper.js"
     ]
   }
 }
